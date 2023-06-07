@@ -1,0 +1,20 @@
+C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/dc_disp_ctrl_v2/dc_disp_tb.vhd {1 {vcom -work work -2002 -explicit C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/dc_disp_ctrl_v2/dc_disp_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb
+-- Compiling architecture behave of tb
+-- Loading entity dc_disp
+-- Loading entity serial_uart
+
+} {} {}} C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/serial_uart_rtl.vhd {1 {vcom -work work -2002 -explicit C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/serial_uart_rtl.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity serial_uart
+-- Compiling architecture rtl of serial_uart
+
+} {} {}}

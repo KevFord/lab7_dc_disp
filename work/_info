@@ -1,0 +1,116 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Kevin\Documents\VHDL\vhdl_lab7_components_tests_v2\pwm_ctrl_v2
+Edc_disp
+Z0 w1686127315
+Z1 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z4 dC:\Users\Kevin\Documents\VHDL\vhdl_lab7_components_tests_v2\dc_disp_ctrl_v2
+Z5 8C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/dc_disp_ctrl_v2/dc_disp.vhd
+Z6 FC:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/dc_disp_ctrl_v2/dc_disp.vhd
+l0
+L5
+VIzDThS0Xl@>`4?VfB<Plf2
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1686127319.990000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/dc_disp_ctrl_v2/dc_disp.vhd|
+Z10 !s107 C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/dc_disp_ctrl_v2/dc_disp.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 LELOgDI8j^Q0_Ccb1Z8<^3
+!i10b 1
+Artl
+R1
+R2
+R3
+Z13 DEx4 work 7 dc_disp 0 22 IzDThS0Xl@>`4?VfB<Plf2
+l121
+L30
+VXdhPGAhmXl=G=D3H7k;f50
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 dhFiX:meNcJg^oCL]A4g73
+!i10b 1
+Eserial_uart
+Z14 w1652868755
+R2
+R1
+R4
+Z15 8C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/serial_uart_rtl.vhd
+Z16 FC:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/serial_uart_rtl.vhd
+l0
+L15
+Voz[^Hl>E;I`kG6IW74>Hi3
+!s100 _lORiQMOSZ:cI3i5dBzQ70
+R7
+32
+!i10b 1
+Z17 !s108 1686127320.217000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/serial_uart_rtl.vhd|
+Z19 !s107 C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/serial_uart_rtl.vhd|
+R11
+R12
+Artl
+R2
+R1
+Z20 DEx4 work 11 serial_uart 0 22 oz[^Hl>E;I`kG6IW74>Hi3
+l80
+L37
+Z21 V7baQl>>o2UPGMXGc0ozz12
+Z22 !s100 hhYKh4djIB>LhRe5LS3832
+R7
+32
+!i10b 1
+R17
+R18
+R19
+R11
+R12
+Etb
+Z23 w1686125252
+R1
+R2
+R3
+R4
+Z24 8C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/dc_disp_ctrl_v2/dc_disp_tb.vhd
+Z25 FC:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/dc_disp_ctrl_v2/dc_disp_tb.vhd
+l0
+L8
+VCo`VNHbI4WT_5ih[=2dbX0
+R7
+32
+Z26 !s108 1686127320.114000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/dc_disp_ctrl_v2/dc_disp_tb.vhd|
+Z28 !s107 C:/Users/Kevin/Documents/VHDL/vhdl_lab7_components_tests_v2/dc_disp_ctrl_v2/dc_disp_tb.vhd|
+R11
+R12
+!s100 l7;mWXmlCH`50F=oS=O3f0
+!i10b 1
+Abehave
+R20
+R13
+R1
+R2
+R3
+DEx4 work 2 tb 0 22 Co`VNHbI4WT_5ih[=2dbX0
+l51
+L11
+V5_DaC3Mb[fU_G]R`>M:R_0
+!s100 K^nc2@FFYFUSgWFK_c9eJ1
+R7
+32
+R26
+R27
+R28
+R11
+R12
+!i10b 1
